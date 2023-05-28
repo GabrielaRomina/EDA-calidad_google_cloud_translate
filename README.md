@@ -29,3 +29,7 @@ A medida que las fragmentos se hacen más largos, el modelo de traducción autom
   Se rechaza también la segunda hipótesis. No hay una relación clara entre la flexión de los idiomas y la calidad de su traducción automática. Según el índice BLEU incluso podemos ver que se produce el efecto contrario. Por tanto, rechazamos la hipótesis
 Este año Google ha integrado IA a su traductor y parece que hay idiomas como el rumano, que ha resultado muy beneficiado por esta incorporación y que según el índice BLEU recibe la mejor puntuación pesar de ser el idioma más flexivo.
 En cuanto al índice Meteor, que contempla la correción gramatical y la sinonímia de palabras, y que se suele considerar que más próximo a una evaluación humana de la traducción que el BLEU, vemos que el español es el que obtiene mejores resultados con diferencia. Un factor que podría influir en este resultado es el gran contenido de texto que hay en Internet. Según Internet World Stats, en 2020, los usuarios del español en Internet es de 7.9%, el del francés de 3,3 y el resto no aparecen entre los diez idiomas con mayor número de usuarios, por tanto su uso es de menos de un 2%.
+
+### Fuentes:
+https://eur-lex.europa.eu/homepage.html
+https://www.internetworldstats.com/
